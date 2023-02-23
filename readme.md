@@ -1,1 +1,1 @@
-All code for data cleaning and analysis associated with the current submission will be available at [https://github.com/alanchancl/Tactile-GAT](https://github.com/alanchancl/Tactile-GAT). Any updates will also be published on GitHub.
+code of  “**Tactile-GAT: Tactile Graph Attention Networks for Robot Tactile Perception**”  will be available at [https://github.com/alanchancl/Tactile-GAT](https://github.com/alanchancl/Tactile-GAT). Any updates will also be published on GitHub.
