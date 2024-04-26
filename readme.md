@@ -1,1 +1,3 @@
-code of  “**Tactile-GAT: Tactile Graph Attention Networks for Robot Tactile Perception**”  will be available at [https://github.com/alanchancl/Tactile-GAT](https://github.com/alanchancl/Tactile-GAT). Any updates will also be published on GitHub.
+# Tactile-GAT
+
+code of  “**Tactile-GAT: Tactile Graph Attention Networks for Robot Tactile Perception**” 
